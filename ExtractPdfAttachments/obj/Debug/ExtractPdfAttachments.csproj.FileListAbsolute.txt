@@ -1,0 +1,12 @@
+c:\users\is97389\source\Repos\ExtractPdfAttachments\ExtractPdfAttachments\bin\Debug\ExtractPdfAttachments.dll
+c:\users\is97389\source\Repos\ExtractPdfAttachments\ExtractPdfAttachments\bin\Debug\ExtractPdfAttachments.pdb
+c:\users\is97389\source\Repos\ExtractPdfAttachments\ExtractPdfAttachments\bin\Debug\Syncfusion.Compression.Base.dll
+c:\users\is97389\source\Repos\ExtractPdfAttachments\ExtractPdfAttachments\bin\Debug\Syncfusion.Licensing.dll
+c:\users\is97389\source\Repos\ExtractPdfAttachments\ExtractPdfAttachments\bin\Debug\Syncfusion.Pdf.Base.dll
+c:\users\is97389\source\Repos\ExtractPdfAttachments\ExtractPdfAttachments\bin\Debug\Syncfusion.Compression.Base.xml
+c:\users\is97389\source\Repos\ExtractPdfAttachments\ExtractPdfAttachments\bin\Debug\Syncfusion.Pdf.Base.xml
+c:\users\is97389\source\Repos\ExtractPdfAttachments\ExtractPdfAttachments\obj\Debug\ExtractPdfAttachments.csprojAssemblyReference.cache
+c:\users\is97389\source\Repos\ExtractPdfAttachments\ExtractPdfAttachments\obj\Debug\ExtractPdfAttachments.csproj.CoreCompileInputs.cache
+c:\users\is97389\source\Repos\ExtractPdfAttachments\ExtractPdfAttachments\obj\Debug\ExtractPdfAttachments.csproj.CopyComplete
+c:\users\is97389\source\Repos\ExtractPdfAttachments\ExtractPdfAttachments\obj\Debug\ExtractPdfAttachments.dll
+c:\users\is97389\source\Repos\ExtractPdfAttachments\ExtractPdfAttachments\obj\Debug\ExtractPdfAttachments.pdb
